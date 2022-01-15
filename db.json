@@ -1,0 +1,104 @@
+{
+  "blogposts": [
+    {
+      "title": "test blog 123",
+      "content": "tets",
+      "createdDate": "2020-05-22T10:29:37.461Z",
+      "updatedDate": "2020-05-22T10:29:37.461Z",
+      "id": 1
+    },
+    {
+      "title": "yets",
+      "content": "test",
+      "createdDate": "2020-05-22T10:29:46.016Z",
+      "updatedDate": "2020-05-22T10:29:46.016Z",
+      "id": 2
+    },
+    {
+      "title": "rtc stared busses",
+      "content": "lockdown 4.0",
+      "createdDate": "2020-05-22T10:30:12.501Z",
+      "updatedDate": "2020-05-22T10:30:12.501Z",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "srisad95",
+      "firstName": "Srikanth",
+      "secondName": "Yenagandula",
+      "dateOfBirth": "03/08/1997",
+      "sex": "Male",
+      "gmail": "srisad951@gmail.com",
+      "address": [
+        {
+          "houseNo": "8-5-112",
+          "street": "Nehru Nagar",
+          "pincode": "505301",
+          "state": "Telangana",
+          "village": "Sircilla",
+          "mandal": "Sircilla",
+          "District": "Sircilla"
+        },
+        {
+          "houseNo": "8-5-111",
+          "street": "Nehru Nagar",
+          "pincode": "505301",
+          "state": "Telangana",
+          "village": "Sircilla",
+          "mandal": "Sircilla",
+          "District": "Sircilla"
+        }
+      ],
+      "mobile": "7000096586",
+      "hobbies": [
+        "Playing Criket",
+        "Playing Chess"
+      ],
+      "imageUrl": "",
+      "createdDate": "2020-05-22T10:29:46.016Z",
+      "updatedDate": "2020-05-22T10:29:46.016Z",
+      "roles":[
+        {
+          "id":1,
+          "roleName":"USER"
+        },
+        {
+          "id":2,
+          "roleName":"ADMIN"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Maha Bharatham",
+      "authors": [
+        "Vyasa"
+      ],
+      "price":"10$",
+      "createdDate": "2020-05-22T10:29:46.016Z",
+      "updatedDate": "2020-05-22T10:29:46.016Z"
+    }
+  ],
+  "roles":[
+    {
+      "id": 1,
+      "roleName": "USER",
+      "createdBy":"srisad95",
+      "userId":1,
+      "createdDate": "2020-05-22T10:29:46.016Z",
+      "updatedDate": "2020-05-22T10:29:46.016Z"
+    },
+    {
+      "id": 2,
+      "roleName": "ADMIN",
+      "createdBy":"srisad95",
+      "userId":1,
+      "createdDate": "2020-05-22T10:29:46.016Z",
+      "updatedDate": "2020-05-22T10:29:46.016Z"
+    }
+  ]
+}
