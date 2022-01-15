@@ -229,7 +229,7 @@
       "content": "tets",
       "createdDate": "2020-05-22T10:29:37.461Z",
       "updatedDate": "2020-05-22T10:29:37.461Z",
-      "id": 34
+      "id": 44
     },
     {
       "title": "yets",
@@ -276,14 +276,14 @@
       "imageUrl": "",
       "createdDate": "2020-05-22T10:29:46.016Z",
       "updatedDate": "2020-05-22T10:29:46.016Z",
-      "roles":[
+      "roles": [
         {
-          "id":1,
-          "roleName":"USER"
+          "id": 1,
+          "roleName": "USER"
         },
         {
-          "id":2,
-          "roleName":"ADMIN"
+          "id": 2,
+          "roleName": "ADMIN"
         }
       ]
     }
@@ -295,25 +295,25 @@
       "authors": [
         "Vyasa"
       ],
-      "price":"10$",
+      "price": "10$",
       "createdDate": "2020-05-22T10:29:46.016Z",
       "updatedDate": "2020-05-22T10:29:46.016Z"
     }
   ],
-  "roles":[
+  "roles": [
     {
       "id": 1,
       "roleName": "USER",
-      "createdBy":"srisad95",
-      "userId":1,
+      "createdBy": "srisad95",
+      "userId": 1,
       "createdDate": "2020-05-22T10:29:46.016Z",
       "updatedDate": "2020-05-22T10:29:46.016Z"
     },
     {
       "id": 2,
       "roleName": "ADMIN",
-      "createdBy":"srisad95",
-      "userId":1,
+      "createdBy": "srisad95",
+      "userId": 1,
       "createdDate": "2020-05-22T10:29:46.016Z",
       "updatedDate": "2020-05-22T10:29:46.016Z"
     }
